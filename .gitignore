@@ -1,0 +1,14 @@
+# Ignore the large dataset
+Data_Set/
+
+# Ignore the large trained models
+models/
+
+# Ignore Python's cache and virtual environment files
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Ignore system files
+.DS_Store
